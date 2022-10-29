@@ -84,6 +84,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* ainsophaur.it */
+.button.button-ainsophaur {
+  color: #333333;
+  background-image: linear-gradient(15deg, #bbbbbb, #ffffff);
+}
+.button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
@@ -366,12 +376,12 @@ button:hover,
 }
 
 /* Pinterest */
-.button.button-pinterest {
+.button.button-pinterest2 {
   color: #000000;
-  background-color: #ffe2eb;
+  background-color: #ffe2ec;
 }
-.button.button-pinterest:hover,
-.button.button-pinterest:focus {
+.button.button-pinterest2:hover,
+.button.button-pinterest2:focus {
   filter: brightness(90%);
 }
 
@@ -392,6 +402,16 @@ button:hover,
 .button.button-reddit {
   color: #000000;
   background-color: #d7dfe2;
+}
+.button.button-reddit:hover,
+.button.button-reddit:focus {
+  filter: brightness(90%);
+}
+
+/* Replit */
+.button.button-reddit {
+  color: #ffffff;
+  background-color: #000000;
 }
 .button.button-reddit:hover,
 .button.button-reddit:focus {
