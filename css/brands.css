@@ -518,6 +518,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* TVTime */
+.button.button-tvtime {
+  color: #FBD736;
+  background-color: #444444;
+}
+.button.button-tvtime:hover,
+.button.button-tvtime:focus {
+  filter: brightness(90%);
+}
+
 /* Twitch */
 .button.button-twitch {
   color: #ffffff;
