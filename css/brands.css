@@ -164,6 +164,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* BeReal */
+.button.button-bereal {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-bereal:hover,
+.button.button-bereal:focus {
+  filter: brightness(90%);
+}
+
 /* Buy Me a Coffee */
 .button.button-coffee {
   color: #100a26;
