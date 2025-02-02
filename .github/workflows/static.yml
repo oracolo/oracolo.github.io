@@ -6,7 +6,7 @@ on:
       - main  # Sostituisci con il nome del tuo branch principale, se diverso
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
