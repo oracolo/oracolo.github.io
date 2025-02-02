@@ -538,6 +538,17 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Trakt */
+.button-trakt {
+	color: #ffffff;
+	background-color: #000000;
+	border: 1px solid #FFFFFF;
+  }
+  .button-trakt:hover,
+  .button-trakt:focus {
+	filter: brightness(90%);
+}
+
 /* Trello */
 .button-trello {
 	--button-text:#ffffff;
